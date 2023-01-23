@@ -8,5 +8,4 @@ export enum Commands {
 	SQUARE = 'draw_square',
 	RECTANGLE = 'draw_rectangle',
 	SCREENSHOT = 'prnt_scrn'
-
 }
